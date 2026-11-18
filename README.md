@@ -30,7 +30,7 @@ Sistema de gestão de pessoas com foco no módulo de férias conforme a CLT, seg
 - Aprovação em duas instâncias (gestor e RH) e trilha de auditoria imutável com usuário, data/hora e IP
 - Django 5.1, PostgreSQL 15, Docker, Nginx com HTTPS e HSTS, contêineres sem privilégio de root
 
-### Transcrição de documentos com IA
+### [Verbatim](https://github.com/caioalencari/verbatim) — transcrição de documentos com IA
 Interface de OCR de alta acurácia para documentos jurídicos e cartorários usando a API do Gemini.
 - FastAPI, conversão de PDF em imagens e histórico de transcrições em SQLite
 
