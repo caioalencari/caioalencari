@@ -39,4 +39,4 @@ Programa para Windows que baixa vídeos e áudios em MP3 ou MP4. Python · licen
 
 ## 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/caio-alencar-2b963243b) · caioalencarf@gmail.com
+[LinkedIn](https://www.linkedin.com/in/caioalencari) · caioalencarf@gmail.com
